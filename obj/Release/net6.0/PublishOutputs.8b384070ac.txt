@@ -1,0 +1,11 @@
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\DemoApp.exe
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\DemoApp.dll
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\DemoApp.deps.json
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\DemoApp.runtimeconfig.json
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\DemoApp.pdb
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test\javaHelloTest\Cognizant Java\Azure\Demo App\DemoApp\DemoApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
